@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  UnitTest2.7OOP.cpp
+Y:\Programming\Projects\Projects OOP\Lab2.7OOP\Lab2.7OOP\Date.cpp(36,12): warning C4018: '>': signed/unsigned mismatch
+Y:\Programming\Projects\Projects OOP\Lab2.7OOP\Lab2.7OOP\Date.cpp(129,13): warning C4018: '>': signed/unsigned mismatch
+Y:\Programming\Projects\Projects OOP\Lab2.7OOP\Lab2.7OOP\Date.cpp(227,12): warning C4018: '<': signed/unsigned mismatch
+Y:\Programming\Projects\Projects OOP\Lab2.7OOP\Lab2.7OOP\Date.cpp(254,15): warning C4018: '>': signed/unsigned mismatch
+Y:\Programming\Projects\Projects OOP\Lab2.7OOP\Lab2.7OOP\Date.cpp(269,15): warning C4018: '>': signed/unsigned mismatch
+Y:\Programming\Projects\Projects OOP\Lab2.7OOP\Lab2.7OOP\Date.cpp(178): warning C4715: 'Date::IsLaterThan': not all control paths return a value
+     Creating library Y:\Programming\Projects\Projects OOP\Lab2.7OOP\Debug\UnitTest2.7OOP.lib and object Y:\Programming\Projects\Projects OOP\Lab2.7OOP\Debug\UnitTest2.7OOP.exp
+  UnitTest2.7OOP.vcxproj -> Y:\Programming\Projects\Projects OOP\Lab2.7OOP\Debug\UnitTest2.7OOP.dll
